@@ -1,4 +1,4 @@
-	module params branchtesting branchtesting2 branchtesting3
+	module params branchtesting branchtesting2 branchtesting3 b3
 	!insert space and keep tabs option in visual studio
     ! testing
 	use nrtype 
