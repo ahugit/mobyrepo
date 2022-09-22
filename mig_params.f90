@@ -1,6 +1,7 @@
 	module params branchtesting branchtesting2 branchtesting3 b3
 	!insert space and keep tabs option in visual studio
     ! testing
+    checkov
 	use nrtype 
 	use nr 
 	use alib, only: one,logit,logitinv,min2pls,min2plsinv,lin2ndim,ndim2lin,sqrtpi,multinom,condmom
