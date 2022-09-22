@@ -3,6 +3,7 @@
     even more after branching
     after issuetesting1branching
     pullpush
+    in branch2 after pullpush branch2
     !insert space and keep tabs option in visual studio
     ! testing
 	use nrtype 
