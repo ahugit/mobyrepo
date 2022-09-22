@@ -2,6 +2,7 @@
 	!insert space and keep tabs option in visual studio
     ! testing
     checkov
+    checkov2
 	use nrtype 
 	use nr 
 	use alib, only: one,logit,logitinv,min2pls,min2plsinv,lin2ndim,ndim2lin,sqrtpi,multinom,condmom
