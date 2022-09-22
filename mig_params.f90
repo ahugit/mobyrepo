@@ -1,4 +1,5 @@
-	module params branchtesting branchtesting2 branchtesting3 b3
+	in branch2 commit some changes     
+    module params branchtesting branchtesting2 branchtesting3 b3
 	after branching
     even more after branching
     after issuetesting1branching
